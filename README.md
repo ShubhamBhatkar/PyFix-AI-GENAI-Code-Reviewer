@@ -2,7 +2,8 @@
 A web app built using Streamlit and Google Gemini API that allows developers to submit their Python code for review. The app analyzes code for bugs, suggests improvements, and provides an improved version of the code.
 
 
-💡 Features
+💡 Features:
+
 Bug Detection: Analyze Python code for syntax errors and bugs.
 
 Code Improvement: Get suggestions on optimizing code for readability and performance.
